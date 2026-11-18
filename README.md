@@ -1,0 +1,1 @@
+Implementación del algoritmo de compresión de Huffman en C, capaz de comprimir y descomprimir archivos de texto sin pérdida de datos. Construye el árbol de Huffman con una cola de prioridades (montículo) y escribe el árbol y el texto codificado a nivel de bits. Proyecto individual de Algoritmos y Estructuras de Datos II, FIUNI (2026).
